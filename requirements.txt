@@ -1,0 +1,6 @@
+streamlit==1.66.1
+mediapipe==1.2.0
+opencv-python-headless
+numpy
+pillow
+scikit-learn
